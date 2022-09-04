@@ -1,4 +1,4 @@
-### 일하고 있는 곳
+### Where I work
 
-- 쏘카 (SOCAR, Seoul), 데이터 엔지니어링 팀, 소프트웨어 엔지니어 (2020.03 ~ 2022.05)
-- 라인 플러스 (Line Plus, Seoul), 데이터 플랫폼 팀, 소프트웨어 엔지니어 (2022.06 ~)
+- SOCAR (Seoul, South Korea), Data Engineering Team, Software Engineer (2020.03 ~ 2022.05)
+- LINE PLUS (Seoul, South Korea), Data Platform Team, Software Engineer (2022.06 ~)
